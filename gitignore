@@ -1,0 +1,46 @@
+# Obsidian spezifische Dateien (Konflikte vermeiden)
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-web.json
+
+# Obsidian Plugins (jeder installiert selbst)
+.obsidian/plugins/
+.obsidian/plugins.json
+
+# Obsidian Themes und Snippets
+.obsidian/themes/
+.obsidian/snippets/
+
+# Temporäre Dateien und Caches
+*.tmp
+*.temp
+.cache/
+Thumbs.db
+.DS_Store
+
+# IDEs und Editoren
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generierte Dateien
+Desktop.ini
+
+# Logs
+*.log
+
+# Große Dateien (Bilder/Videos - falls nicht gewollt)
+# *.jpg
+# *.png  
+# *.mp4
+# attachments/
+
+# Windows Thumbnail Cache
+$RECYCLE.BIN/
+
+# Binärdateien
+*.exe
+*.dll
+*.bin
